@@ -1,0 +1,1 @@
+This is a sample website from the <em>[Learn Enough™ HTML to be Dangerous</em> Tutorial](https://www.learnenough.com/html-tutorial). The purpose of this site is learn and demonstrate common HTML tags.
